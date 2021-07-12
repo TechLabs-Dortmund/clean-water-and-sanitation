@@ -27,7 +27,7 @@ By the end you should have filled out the following:
 5. **Authors:** Please add all of you and link your respective GitHub profile and other information if you want to. This part if completely up to you.
 6. If you are done filling out the information below, please **delete this TODO Section** to keep your project readme clean for other people to get to know more about your project.
 
-# Project Title
+# Clean Water and Sanitation
 
 Description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
