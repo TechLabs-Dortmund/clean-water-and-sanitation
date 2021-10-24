@@ -202,6 +202,13 @@ def clean_data():
     dfHygiene = dfHygiene.fillna(0)
     dfHygiene.to_csv("Hygiene_28_09_2021.csv")
 
+    global dfSanitation
+    dfSanitation = dfSanitation.replace("<1", "0.1")
+    dfSanitation = dfSanitation.replace(">99", "99.9")
+    dfSanitation = dfSanitation.replace("-", "0")
+    dfSanitation = dfSanitation.fillna(0)
+    dfSanitation.to_csv("Sanitation_28_09_2021.csv")
+
 
 # pretty much the main function, but havent googled yet on how to do it properly
 def run_program():
