@@ -81,7 +81,7 @@ Just run the **_"main"_** configuration of our code, the rest of the project is 
   
 ## Roadmap
 
-Next steps:
+### **Next steps:**
 
 -fixing some minor issues (e.g. adding some units of measurement wherever it's missing)
 
