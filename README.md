@@ -1,8 +1,3 @@
-
-4. **Roadmap:** The general outline of what you want to do in what order. Please keep this up to date, so that we can follow what you are and will be doing.
-5. **Authors:** Please add all of you and link your respective GitHub profile and other information if you want to. This part if completely up to you.
-6. If you are done filling out the information below, please **delete this TODO Section** to keep your project readme clean for other people to get to know more about your project.
-
 # Clean Water and Sanitation
 
 ### **Description**
@@ -86,14 +81,18 @@ Just run the **_"main"_** configuration of our code, the rest of the project is 
   
 ## Roadmap
 
-- Additional browser support
-- Add more integrations
+Next steps:
+
+-fixing some minor issues (e.g. adding some units of measurement wherever it's missing)
+
+-checking the code on some hidden error triggers
+ 
+-Working on our dropdown menu idea, since we are python/data science beginners we couldn't develop the necessary skills to include this feature in our code. 
 
   
 ## Authors
 
-- [@bob](https://www.github.com/bob)
-- [@alice](https://www.github.com/alice)
-
-  
+- [@schoeTom](https://github.com/schoeTom)
+- [@AylinA94](https://github.com/AylinA94)
+- [@miranirfan](https://github.com/miranirfan)   
 
